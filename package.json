@@ -1,0 +1,13 @@
+{
+  "name": "hubylonapis",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "Eli Sagy",
+  "private": true,
+  "dependencies": {
+    "express": "3.4.8",
+    "socket.io": "x.x.x",
+    "uuid": "x.x.x"
+  }
+}
